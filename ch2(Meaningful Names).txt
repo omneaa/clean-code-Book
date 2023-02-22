@@ -1,0 +1,14 @@
+Write the name should be obvious not a ,aaa,b…… 
+
+*you can use aFunction_Name to functions and variable_Name with variables ex : name all classes with theClassName , aFunction_Name to functions
+
+* . A class name should not be a verb it should be like :Customer, WikiPage,
+Account, and AddressParser
+
+* Methods should have verb or verb phrase names like postPayment, deletePage, or save.
+Accessors,
+
+* Say what you mean. Mean what you say
+
+* Avoid using the same word for two purposes
+
