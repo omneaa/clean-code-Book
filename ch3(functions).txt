@@ -1,0 +1,15 @@
+functions
+
+Do One Thing:
+FUNCTIONS SHOULD DO ONE THING NOT MANY THING IT WILL MAKE THE CODE CLEAR AND EASY TO UNDERSTAND 
+
+***********************
+every function name should describes what the function does.
+*************************
+if the function make more than one task it should be divided into sections
+**********************
+Don’t be afraid to make a name long. A long descriptive name is better than a short enigmatic name. A long descriptive name is better than a long descriptive comment.
+*******************
+Functions should do one thing. Error handing is one thing. Thus, a function that handles errors should do nothing else
+
+
